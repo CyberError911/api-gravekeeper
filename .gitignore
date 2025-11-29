@@ -31,7 +31,6 @@ Thumbs.db
 
 # Test logs and fixtures
 test/logs/
-test/fixtures/
 
 # Build artifacts
 api-gravekeeper
