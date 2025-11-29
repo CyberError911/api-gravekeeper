@@ -2,9 +2,9 @@
 
 **Title:** The Forgotten Backend: Using Log Analysis to Audit the Undocumented Half of Your APIs
 
-**Word Count:** ~280 words
+**Word Count:** ~280 words 
 
----
+--
 
 Your API inventory is incomplete. Traditional security tools—SAST scanners, DAST platforms, runtime monitors—excel at finding bugs in code they can see. But they're blind to a critical gap: **the discrepancy between what your code defines and what's actually running**.
 
